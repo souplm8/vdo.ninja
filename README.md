@@ -12,6 +12,9 @@
 
 VDO.Ninja brings peer-to-peer technology to OBS and other studio software, enabling remote camera integration with:
 
+
+
+
 * 🔒 Direct peer-to-peer video transfer in most cases
 * ⚡ High-quality video with super low latency
 * 💪 Director control room with group chat
